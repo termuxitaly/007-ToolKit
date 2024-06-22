@@ -1,4 +1,3 @@
-os-sys
 exifread
 requests
 Pillow
