@@ -1,0 +1,6 @@
+os-sys
+exifread
+requests
+Pillow
+termcolor
+colorama
