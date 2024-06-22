@@ -3,3 +3,5 @@ requests
 Pillow
 termcolor
 colorama
+os
+sys
